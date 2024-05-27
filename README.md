@@ -1,0 +1,2 @@
+# BrightSolutionsEMS
+Employees Management System
